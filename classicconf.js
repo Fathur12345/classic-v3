@@ -22,13 +22,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 global.gr = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk'
-global.ig = 'ano_nymous_sam' // ubah aja
+global.ig = 'fthrrxyzz' // ubah aja
 global.email = 'samuelcircute@gmail.com' //serah
-global.region = 'kenya' // serah
+global.region = 'KONOHAA' // serah
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'ꪶ༺֎ᚏ༈࿉𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒⧉ᚙ֎⸙༻' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254742491666'] // ubah aja pake nomor lu
+global.owner = ['6281260431003'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺' // ubah aja ini nama sticker
@@ -55,7 +55,7 @@ global.menutype = "v1"
 //Gausah Juga
 global.limitawal = {
     premium: "Infinity",
-    free: 5
+    free: 10
 }
 //=================================================//
 let file = require.resolve(__filename)
