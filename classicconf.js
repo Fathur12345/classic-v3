@@ -21,7 +21,7 @@ Base Haikal Hw Mods : Copyan Dari Base Dika
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk'
+global.gr = 'https://chat.whatsapp.com/CRqd9QL3qtsFOk4T0fdbjI'
 global.ig = 'fthrrxyzz' // ubah aja
 global.email = 'samuelcircute@gmail.com' //serah
 global.region = 'KONOHAA' // serah
