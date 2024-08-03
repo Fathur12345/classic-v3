@@ -254,7 +254,7 @@ const zets = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ?
  message:{"orderMessage":{"orderId":"174238614569438",
  "thumbnail":kosongjpg, //image 0kb
  "itemCount":999999999,
- "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
+ "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺`,
  "token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==" }},
  contextInfo: {"mentionedJid":m.sender.split, "forwardingScore":999,"isForwarded":true}}
  
@@ -301,8 +301,8 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
+        title : `⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺`,
+        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg`,
@@ -312,8 +312,8 @@ const zetsreply = async (teks) => {
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺`,
+        title : `⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺`,
+        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉⸙⫺`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
@@ -323,8 +323,8 @@ const virgamreply = async (teks) => {
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
-        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
+        title : `⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺`,
+        body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
         mediaUrl: `https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
@@ -406,7 +406,7 @@ var hawemod = [
 
 ` ★彡 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙑3 彡★ `
 ]
-let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺.....'})//Pengalih isu
+let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺.....'})//Pengalih isu
 
 for (let i = 0; i < hawemod.length; i++) {
 /*await delay(10)*/
@@ -1059,7 +1059,7 @@ break
 //=================================================//
 case 'bugmenu': {
 	
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ* 
                             
   
   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
@@ -1084,8 +1084,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfom:{externalAdReply:{
-  title: 'ᚙᚘ ⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3 ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
-  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
+  title: 'ᚙᚘ ⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ ⧉⸙⫺   - 𝐊ᚗ𝐈𝐍ᚗ𝐆 ᚘᚙ',
+  body: 'ᚙᚘ ⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉⸙⫺᚜𝐌𝐈𝐒𝐒𝐈𝐎𝐍᚛ ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1097,7 +1097,7 @@ zetsubo.sendMessage(from, hiks, {quoted: zets })}
 break
 case 'pushmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ* 
    🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
     🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━━━━━━━━━━━━━━━━
@@ -1111,8 +1111,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
+  title: '⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺',
+  body: '⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1125,7 +1125,7 @@ break
 //=================================================//
 case 'groupmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ* 
 🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
 🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
  
@@ -1162,8 +1162,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: '𒑰⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺⿻',
+  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1176,7 +1176,7 @@ break
 //=================================================//
 case 'downloadmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ* 
     🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
     🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
@@ -1200,8 +1200,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
-  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⿻༔༐༑', 
+  title: '𒑰⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺',
+  body: '༐༑⿻⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1214,7 +1214,7 @@ break
 //=================================================//
 case 'randommenu': {
 
-                            ewe = `*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = `*卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ* 
   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
   🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
@@ -1263,7 +1263,7 @@ image: cewegw,
   caption: ewe,
   contextInfo:{externalAdReply:{
   title: '𒑰᚜ 𝐇𝐚𝐢𝐥 𝐭𝐨 𝐊𝐢𝐧𝐠 𝐒𝐚𝐦 ᚛⿻',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺༔༐༑', 
+  body: '༐༑⿻⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1276,7 +1276,7 @@ break
 //=================================================//
 case 'Islammenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧*
+                            ewe = ` *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ*
 ┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
@@ -1311,14 +1311,14 @@ case 'Islammenu': {
 ┃➟ 𝐚𝐥𝐪𝐮𝐫𝐚𝐧
 ┃➟ 𝐥𝐢𝐬𝐭𝐬𝐮𝐫𝐚𝐡
 ┃┗━━━━━━━━━━━━━━━━━━━━
-┃  ➥➥➥❰*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024*❱➥➥➥
+┃  ➥➥➥❰*卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ ®2024*❱➥➥➥
 ┗━━━━━━━━━━━━━━━━━━━━━`
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉',
+  body: '⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1331,8 +1331,8 @@ break
 //=================================================//
 case 'textmaker': {
 
-                            ewe = `┏━━━❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3* ❱━━━━━━ 
-┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
+                            ewe = `┏━━━❰ *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ* ❱━━━━━━ 
+┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 卩卂ㄒㄩ尺尺 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┃
@@ -1393,15 +1393,15 @@ case 'textmaker': {
 ┃➟ 𝒉𝒐𝒓𝒓𝒐𝒓𝒃𝒍𝒐𝒐𝒅
 ┃➟ 𝒕𝒉𝒖𝒏𝒅𝒆𝒓
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉',
+  body: '༐༑⿻⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1414,7 +1414,7 @@ break
 //=================================================//
 case 'listmusik': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧*
+                            ewe = ` *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ*
        🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
        🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
        
@@ -1588,8 +1588,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺⿻༔༐༑', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉',
+  body: '༐༑⿻⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺⿻༔༐༑', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1602,7 +1602,7 @@ break
 //=================================================//
 case 'addmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ* 
   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
   🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━ 𝑨𝑫𝑫 𝑴𝑬𝑵𝑼 ━━━━━
@@ -1640,8 +1640,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐༑⿻⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',showAdAttribution: true,
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉',
+  body: '༐༑⿻⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⧉⸙⫺',showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
   MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
@@ -1653,7 +1653,7 @@ break
 //=================================================//
 case 'cucimata': {
 
-                            ewe = `┏━━━▓ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* ▓━━━━━━━
+                            ewe = `┏━━━▓ *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ* ▓━━━━━━━
 ┃  ➥𝐒𝐜 𝐏𝐫𝐢𝐯𝐚𝐭𝐞 ❴ 𝐵𝑌 𝑆𝐴𝑀 ❵
 ┃  ➥ 𝐔𝐬𝐞𝐫 : ${pushname}}
 ┃  ➥𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
@@ -1731,15 +1731,15 @@ case 'cucimata': {
 ┃➟ 𝐡𝐢𝐠𝐡𝐟𝐢𝐯𝐞
 ┃➟ 𝐡𝐚𝐧𝐝𝐡𝐨𝐥𝐝
 ┃┗━━━━━━━━━━━━━━━━━━━
-┃ ➥➥❰ *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 ®2024* ❱➥➥
+┃ ➥➥❰ *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ ®2024* ❱➥➥
 ┗━━━━━━━━━━━━━━━━━━━━
 `
 let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '༐⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂⸙⫺', 
+  title: '𒑰⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉',
+  body: '༐⫹⸙⧉卩卂ㄒㄩ尺尺⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1752,7 +1752,7 @@ break
 //=================================================//
 case 'ownermenu': {
 await inireact()
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ* 
   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
   🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━━━━━━━━━━━━━
@@ -1772,8 +1772,8 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉',
-  body: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⸙⫺', 
+  title: '⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃⸙⧉',
+  body: '⫹⸙⧉卩卂ㄒㄩ尺尺尺ㄥㄖη乇ㄥɎ⸙⫺', 
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
@@ -1808,7 +1808,7 @@ text: `𝑯𝒆𝒍𝒍𝒐 ${pushname}
  ⦁ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐭𝐨 ${pushname} 
  ➢ 𝐅𝐨𝐫 𝐔𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐁𝐨𝐭 
 ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
-© 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕3 𝐁𝐎𝐓
+© 卩卂ㄒㄩ尺尺 𝐕3 𝐁𝐎𝐓
 `,
 mentions:[sender],
 contextInfo:{
@@ -1816,7 +1816,7 @@ mentionedJid:[sender],
 "externalAdReply": {
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
-"title": `© 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕3 𝐁𝐎𝐓`, 
+"title": `© 卩卂ㄒㄩ尺尺 𝐕3 𝐁𝐎𝐓`, 
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": rimuwu,
@@ -2427,7 +2427,7 @@ await inireact()
 if (!isCreator) return reply('*Only Premium Members Are Allowed To Use This Command*')
 if (!m.isGroup) return
 await inireact()
-let teks = `══᪣⧠ *࿉ 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐕-3࿉* ⧠᪣══
+let teks = `══᪣⧠ *࿉ 卩卂ㄒㄩ尺尺 𝐕-3࿉* ⧠᪣══
  ➲ *REPORT : ${q ? q : '𝐓𝐀𝐆𝐆𝐄𝐃'}*\n\n`
 for (let mem of participants) {
 teks += `🩸 @${mem.id.split('@')[0]}\n`
@@ -3381,7 +3381,7 @@ case 'broadcast':
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: true,
-                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 𝐂𝐋𝐀𝐒𝐒𝐈𝐂 𝐁𝐎𝐓',
+                                title: '𝐁𝐑𝐎𝐀𝐃𝐂𝐀𝐒𝐓𝐄𝐃 𝐁𝐘 卩卂ㄒㄩ尺尺 𝐁𝐎𝐓',
                                 body: `Sent ${i.length} Group`,
                                 thumbnailUrl: 'https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg',
                                 sourceUrl: 'https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV',
@@ -4697,7 +4697,7 @@ case 'play':
                         document: fs.readFileSync(`./${randomName}`),
                         mimetype: "audio/mpeg",
                         fileName: titleYt + ".mp3",
-			caption: "💢 𝐂𝐋𝐀𝐒𝐒𝐈𝐂_𝐁𝐎𝐓 𝐁𝐘 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 🩸 ",    
+			caption: "💢 𝐁𝐎𝐓 𝐁𝐘 卩卂ㄒㄩ尺 🩸 ",    
                     }, {
                         quoted: m 
                     }
